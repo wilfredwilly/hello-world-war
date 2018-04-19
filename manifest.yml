@@ -3,5 +3,5 @@ applications:
 - name: addressbook
   memory: 512M
   host: addressbook
-  path: target/addressbook.war
+  path: target/hello-world-war-1.0.0.war
   buildpack: java_buildpack
